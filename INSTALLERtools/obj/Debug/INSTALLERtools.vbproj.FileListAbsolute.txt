@@ -1,0 +1,59 @@
+C:\Users\lucat\Source\Repos\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.Resources.resources
+C:\Users\lucat\Source\Repos\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.vbproj.GenerateResource.cache
+C:\Users\lucat\Source\Repos\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.vbproj.CoreCompileInputs.cache
+C:\INSTALLER\INSTALLER - tools\INSTALLERtools.exe.config
+C:\INSTALLER\INSTALLER - tools\INSTALLERtools.exe
+C:\INSTALLER\INSTALLER - tools\INSTALLERtools.pdb
+C:\INSTALLER\INSTALLER - tools\INSTALLERtools.xml
+C:\Users\lucat\Source\Repos\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.exe
+C:\Users\lucat\Source\Repos\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.xml
+C:\Users\lucat\Source\Repos\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.pdb
+C:\Users\lucat\Source\Repos\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.Informazioni.resources
+C:\Users\lucat\Source\Repos\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.Inizio.resources
+C:\Users\lucat\Source\Repos\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.installer.resources
+C:\Users\lucat\Source\Repos\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.makeinstaller.resources
+C:\Users\lucat\Source\Repos\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.usercopy.resources
+C:\Users\lucat\Source\Repos\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.updating.resources
+C:\Users\lucat\INSTALLER\INSTALLER - tools\INSTALLERtools.exe.config
+C:\Users\lucat\INSTALLER\INSTALLER - tools\INSTALLERtools.exe
+C:\Users\lucat\INSTALLER\INSTALLER - tools\INSTALLERtools.pdb
+C:\Users\lucat\INSTALLER\INSTALLER - tools\INSTALLERtools.xml
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.Informazioni.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.Inizio.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.installer.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.makeinstaller.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.Resources.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.updating.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.usercopy.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.vbproj.GenerateResource.cache
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.vbproj.CoreCompileInputs.cache
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.exe
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.xml
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.pdb
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.newbackup.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.backrest.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.wait.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.errorscopy.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.namebackup.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.vbprojAssemblyReference.cache
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.backrest.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.errorscopy.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.Informazioni.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.Inizio.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.installer.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.makeinstaller.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.Resources.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.namebackup.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.newbackup.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.updating.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.usercopy.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.wait.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.vbproj.GenerateResource.cache
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.vbproj.CoreCompileInputs.cache
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.exe
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.xml
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLERtools\INSTALLERtools\obj\Debug\INSTALLERtools.pdb
+C:\Users\lucat\Desktop\InstallerTools\INSTALLERtools.exe.config
+C:\Users\lucat\Desktop\InstallerTools\INSTALLERtools.exe
+C:\Users\lucat\Desktop\InstallerTools\INSTALLERtools.pdb
+C:\Users\lucat\Desktop\InstallerTools\INSTALLERtools.xml

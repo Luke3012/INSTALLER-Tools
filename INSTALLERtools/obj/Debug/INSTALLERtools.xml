@@ -1,0 +1,61 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+INSTALLERtools
+</name>
+</assembly>
+<members>
+<member name="T:INSTALLERtools.My.Resources.Resources">
+<summary>
+  Classe di risorse fortemente tipizzata per la ricerca di stringhe localizzate e così via.
+</summary>
+</member>
+<member name="P:INSTALLERtools.My.Resources.Resources.ResourceManager">
+<summary>
+  Restituisce l'istanza di ResourceManager nella cache utilizzata da questa classe.
+</summary>
+</member>
+<member name="P:INSTALLERtools.My.Resources.Resources.Culture">
+<summary>
+  Esegue l'override della proprietà CurrentUICulture del thread corrente per tutte le
+  ricerche di risorse eseguite utilizzando questa classe di risorse fortemente tipizzata.
+</summary>
+</member>
+<member name="P:INSTALLERtools.My.Resources.Resources.Igh0zt_Ios7_Style_Metro_Ui_MetroUI_Apps_Mac_App_Store">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:INSTALLERtools.My.Resources.Resources.info_2150941_960_720">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:INSTALLERtools.My.Resources.Resources.INSTALLER__paint">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:INSTALLERtools.My.Resources.Resources.toolsupdater">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Byte[].
+</summary>
+</member>
+<member name="P:INSTALLERtools.My.Resources.Resources.unnamed">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:INSTALLERtools.My.Resources.Resources.unnamed__1_">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:INSTALLERtools.My.Resources.Resources.unnamed__2_">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
